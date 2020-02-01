@@ -2,10 +2,10 @@
 title="Home"
 
 hero_image="/images/material-bg.jpg"
-hero_title="Shower Loop"
-hero_subtitle="Open Source - Open Hardware - Ecological - Economical."
-hero_content="Real-time filtration, purification, recycling & heat recovery system for showers. Made in Finland, for Earth."
-hero_video_url="https://www.youtube.com/embed/cY6MaxiNqWI"
+hero_title="Blue Squad"
+hero_subtitle="Web development with an emphasis on accessibility"
+hero_content="WCAG is short for Web Content Accessibility Guidelines, and is the current industry standard for web content accessibility. In order to meet the needs of all customers, our team of dedicated and experienced developers ensure that the final product experienced by the user is completely accessible and meets all WCAG requirements for your business."
+hero_video_url="https://www.youtube.com/embed/0VRc_gF0dt8"
 
 cta_text="Looking to make a change? Want to support the project?"
 cta_btn_text="Check Out our GoFundMe"
@@ -17,10 +17,11 @@ cta_url="/posts"
         <div class="mdl-grid">
             <div class="mdl-cell mdl-cell--12-col">
                 <h2 class="mdl-typography--display-2">
-                    Shower Loop vs Normal Shower
+                    Standard Development Vs WCAG Compliant Development
                 </h2>
                 <p class="intro-description">
-                90% reduction in water usage and 70-90% in energy reduction for a 10 minute shower with a flow rate of 10 l/min. Savings are dependant on user behaviour and can vary. Use Just one bucket of water for a shower of any length.  See the savings section for more information.
+                While standard development may be more inexpensive in comparison, WCAG compliance is <strong>integral</strong> in building a website that emphasizes accesibility for
+                users with disabilities. Compliance with WCAG guidelines is necessary in order to <strong>avoid potential lawsuits and/or government action</strong> when building your business. 
                 </p>
                 <div class="mdl-grid reasons">
                     <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
@@ -28,8 +29,8 @@ cta_url="/posts"
                             <i class="far fa-lightbulb"></i>
                         </div>
                         <div>
-                            <h3>Save Water</h3>
-                            <p>Capture, Filter, Reuse</p>
+                            <h3>Perceivable</h3>
+                            <p>Text Alternatives, Adaptable, Distinguishable</p>
                         </div>
                     </div>
                     <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
@@ -37,8 +38,8 @@ cta_url="/posts"
                             <i class="far fa-lightbulb"></i>
                         </div>
                         <div>
-                            <h3>Saving Energy</h3>
-                            <p>By reusing warm water.</p>
+                            <h3>Operable</h3>
+                            <p>Functionality, Assistance, Purpose</p>
                         </div>
                     </div>
                 </div>
@@ -48,8 +49,8 @@ cta_url="/posts"
                             <i class="far fa-lightbulb"></i>
                         </div>
                     <div>
-                            <h3>Save The Planet</h3>
-                            <p>Save Money</p>
+                            <h3>Understandable</h3>
+                            <p>Readable, Predictable, Consistent</p>
                         </div>
                 </div>
                 <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
@@ -57,54 +58,12 @@ cta_url="/posts"
                             <i class="far fa-lightbulb"></i>
                         </div>
                     <div>
-                            <h3>Open Hardware</h3>
-                            <p>Copy, improve, adapt, share</p>
-                        </div>
-                </div>
-            </div>
-            <div class="mdl-grid reasons">
-                <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
-                        <div>
-                            <i class="far fa-lightbulb"></i>
-                        </div>
-                    <div>
-                            <h3>Assemble It Yourself</h3>
-                            <p>With manufactured and off-shell components</p>
-                        </div>
-                </div>
-                <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
-                        <div>
-                            <i class="far fa-lightbulb"></i>
-                        </div>
-                    <div>
-                            <h3>Enjoy Better Showers</h3>
-                            <p>The single pump provides stable water pressure and the thermostat and heater keep water nice and warm</p>
-                        </div>
-                </div>
-            </div>
-            <div class="mdl-grid reasons">
-                <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
-                        <div>
-                            <i class="far fa-lightbulb"></i>
-                        </div>
-                    <div>
-                            <h3>Off - Grid Ready</h3>
-                            <p>The entire system can run on a 12V DC</p>
-                        </div>
-                </div>
-                <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
-                        <div>
-                            <i class="far fa-lightbulb"></i>
-                        </div>
-                    <div>
-                            <h3>No Plumber Needed</h3>
-                            <p>Shower Loop is like a standalone appliance without connecting to water mains</p>
-                        </div>
+                            <h3>Compatible</h3>
+                            <p>Identifiable, Navigatable, Accessible</p>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-</div>
 </div>
 <!-- How It Works -->
 <div class="home-works">
@@ -114,7 +73,7 @@ cta_url="/posts"
                 How It Works
             </h2>
             <p class="intro-description">
-            Showers are great, but pouring hot and almost drinkable water down the drain is not. Besides the obvious costs to the environment and your bills, there is also a conscious on unconscious psychological cost any time you create waste. To solve this problem we created Showerloop. It's a shower that collects, cleans and reuses the water in real time while you are showering. So now you can shower for as long as you like but with a reduced ecological impact.
+            While building a website may not be the most difficult aspect of creating a business, becoming WCAG (AA) compliant requires rigourous testing and research in order to uphold the standard sought out by so many websites today. Our team of dedicated developers at Blue Squad will build your business site from scratch, and test every possible user interaction within it's contents to ensure it is WCAG Compliant and up to par with industry leaders. Our goal is to help you provide complete access to your website for <strong>all</strong> potential clients.
             </p>
             <div class="mdl-grid videos">
                 <div class="mdl-cell mdl-cell--4-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">

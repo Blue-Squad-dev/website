@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>post on </title>
@@ -36,7 +36,7 @@ In Finland, people use an average of 140 liters of water every day.</description
       <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://shower-loop.github.io/posts/blog2/</guid>
-      <description>Low poly showerstall for the Design Museum. Enter &amp;amp; Encounter Exhibit At the start of the year, we were asked to bring a demo of Showerloop to an art/design/futurism exhibit. We also designed a wooden shower stall to accompany the showerloop system. The shower stall was made with blender, Explision, Meshlab, a lasercutter, circle saw, router, dremel, drill, clamps, hammer, crowbar, screwdriver, nuts, sticks, planks and bits, interior wax and lights.</description>
+      <description>Low poly showerstall for the Design Museum. Enter &amp; Encounter ExhibitAt the start of the year, we were asked to bring a demo of Showerloop to an art/design/futurism exhibit. We also designed a wooden shower stall to accompany the showerloop system. The shower stall was made with blender, Explision, Meshlab, a lasercutter, circle saw, router, dremel, drill, clamps, hammer, crowbar, screwdriver, nuts, sticks, planks and bits, interior wax and lights.</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@ In Finland, people use an average of 140 liters of water every day.</description
       <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://shower-loop.github.io/posts/blog1/</guid>
-      <description>For the last couple of months we have gotten back to circuit boards and looking at completing the project we started a long time ago. Making the shower smart and easily controllable like one would expect from modern consumer products. There&amp;rsquo;s been a lot to learn considering all we could do a few years ago was wire up a light bulb, and even then we would need to check what the difference was with the brown wire (live/positive) and the blue wire (ground/neutral).</description>
+      <description>For the last couple of months we have gotten back to circuit boards and looking at completing the project we started a long time ago. Making the shower smart and easily controllable like one would expect from modern consumer products. There&#39;s been a lot to learn considering all we could do a few years ago was wire up a light bulb, and even then we would need to check what the difference was with the brown wire (live/positive) and the blue wire (ground/neutral).</description>
     </item>
     
   </channel>
