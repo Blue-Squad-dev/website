@@ -26,7 +26,7 @@ cta_url="/posts"
                 <div class="mdl-grid reasons">
                     <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
                         <div>
-                            <i class="far fa-lightbulb"></i>
+                            <i class="fas fa-wifi"></i>
                         </div>
                         <div>
                             <h3>Perceivable</h3>
@@ -35,7 +35,7 @@ cta_url="/posts"
                     </div>
                     <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
                         <div>
-                            <i class="far fa-lightbulb"></i>
+                            <i class="fas fa-wifi"></i>
                         </div>
                         <div>
                             <h3>Operable</h3>
@@ -46,7 +46,7 @@ cta_url="/posts"
             <div class="mdl-grid reasons">
                 <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
                         <div>
-                            <i class="far fa-lightbulb"></i>
+                            <i class="fas fa-wifi"></i>
                         </div>
                     <div>
                             <h3>Understandable</h3>
@@ -55,7 +55,7 @@ cta_url="/posts"
                 </div>
                 <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
                         <div>
-                            <i class="far fa-lightbulb"></i>
+                            <i class="fas fa-wifi"></i>
                         </div>
                     <div>
                             <h3>Compatible</h3>
