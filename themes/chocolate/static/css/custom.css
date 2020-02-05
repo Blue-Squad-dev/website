@@ -1,18 +1,18 @@
-a { color: #EB2078; }
+a { color: #00D0FF; }
 .flow-text { width: 100%; font-size: 30px; text-align: center; display: block; line-height: 40px; margin: 40px 0;}
 .mdl-button--raised.mdl-button--colored { background: #00D0FF; color: #000000 !important; }
 .cta { background: #333333; color: #ffffff; }
-.home-introduction .reasons .mdl-cell div:nth-child(1) { color: #EB2078; }
+.home-introduction .reasons .mdl-cell div:nth-child(1) { color: #00D0FF; }
 .home-works { background: #333333; color: #ffffff; }
 .chocolate-footer { background: #333333; color: #ffffff; }
 .contact-form .mdl-textfield { width: 100%; }
 .contact-form .mdl-textfield__label { color: #000000; }
 .contact-form .mdl-textfield--floating-label.is-focused .mdl-textfield__label,
 .contact-form .mdl-textfield--floating-label.is-dirty .mdl-textfield__label,
-.contact-form .mdl-textfield--floating-label.has-placeholder .mdl-textfield__label { color: #EB2078;}
-.contact-form .mdl-textfield__label:after { background-color: #EB2078; }
+.contact-form .mdl-textfield--floating-label.has-placeholder .mdl-textfield__label { color: #00D0FF;}
+.contact-form .mdl-textfield__label:after { background-color: #00D0FF; }
 
-.skip-to-content { background: #EB2078; height: 50px; line-height: 50px; font-size: 20px; }
+.skip-to-content { background: #00D0FF; height: 50px; line-height: 50px; font-size: 20px; }
 
 
 @media only screen and (max-width: 1200px)
