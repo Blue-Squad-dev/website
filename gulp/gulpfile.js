@@ -23,7 +23,8 @@ var pathConfig = {
                 file = file + '\n' + '@import url(\'' + value.replace(pathConfig.path, '') + '\');';
             }
         });
-        fs.writeFileSync(pathConfig.path + instance.cssDest + '/' + backendFileNm + '.css', file);
+        console.log(file);
+        fs.writeFileSync('/' + backendFileNm + '.css', file);
     },
     buildJsImport = function (instance) {
         fs.writeFileSync(pathConfig.path + instance.jsDest + '/app.js.json', JSON.stringify(instance.libJsFiles.concat(instance.jsFiles)));
