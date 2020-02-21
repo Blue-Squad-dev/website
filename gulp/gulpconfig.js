@@ -6,8 +6,8 @@ var config = {
             jsDest: basePath + '/js',
             cssFiles: [
 				basePath + "/css/layout.css",
-				basePath + "/css/footer.css",
 				basePath + "/css/header.css",
+				basePath + "/css/footer.css",
 				basePath + "/css/cta.css",
 				basePath + "/css/hero.css",
 				basePath + "/css/home.css",
@@ -22,6 +22,7 @@ var config = {
             jsFiles: [
                 basePath + '/js/menu.js',
                 basePath + '/js/tabbed.js',
+                basePath + '/js/skip-to-content.js'
             ],
             cssFilesExclude: [
                 basePath + '/css/app.*.css'

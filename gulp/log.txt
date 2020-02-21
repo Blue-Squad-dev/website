@@ -693,3 +693,465 @@ Running build-css for index 0
 
 
 [[90m23:11:44[39m] Completed CSS Files for index 0
+[[90m23:33:44[39m] Starting 'exit'...
+[[90m23:33:44[39m] The following tasks did not complete: watch, exit
+[[90m23:33:44[39m] Did you forget to signal async completion?
+Gulp is finished.
+[[90m23:33:51[39m] Using gulpfile D:\Work-In-Progress\blue-squad\website\gulp\gulpfile.js
+[[90m23:33:51[39m] Starting 'watch'...
+restarting watch
+Starting Instance
+Running build-js for index 0
+Running build-css for index 0
+[[90m23:33:51[39m] [ '../tugthr_dev/themes/chocolate/static/js/material.min.js' ]
+[[90m23:33:51[39m] Completed Lib JS Files for index 0
+[[90m23:33:51[39m] Completed Primary JS Files for index 0
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+[[90m23:33:51[39m] Completed Primary JS Files for index 0
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+[[90m23:33:51[39m] Completed CSS Files for index 0
+[[90m23:36:31[39m] Starting 'exit'...
+[[90m23:36:31[39m] The following tasks did not complete: watch, exit
+[[90m23:36:31[39m] Did you forget to signal async completion?
+Gulp is finished.
+[[90m23:36:38[39m] Using gulpfile D:\Work-In-Progress\blue-squad\website\gulp\gulpfile.js
+[[90m23:36:38[39m] Starting 'watch'...
+restarting watch
+Starting Instance
+Running build-js for index 0
+Running build-css for index 0
+[[90m23:36:38[39m] [ '../tugthr_dev/themes/chocolate/static/js/material.min.js' ]
+[[90m23:36:38[39m] Completed Lib JS Files for index 0
+[[90m23:36:38[39m] Completed Primary JS Files for index 0
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+[[90m23:36:38[39m] Completed Primary JS Files for index 0
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+[[90m23:36:38[39m] Completed CSS Files for index 0
+Gulp is finished.
+[[90m23:42:08[39m] Using gulpfile D:\Work-In-Progress\blue-squad\website\gulp\gulpfile.js
+[[90m23:42:08[39m] Starting 'watch'...
+restarting watch
+Starting Instance
+Running build-js for index 0
+Running build-css for index 0
+[[90m23:42:08[39m] [ '../tugthr_dev/themes/chocolate/static/js/material.min.js' ]
+[[90m23:42:08[39m] Completed Lib JS Files for index 0
+[[90m23:42:08[39m] Completed Primary JS Files for index 0
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+[[90m23:42:08[39m] Completed Primary JS Files for index 0
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+
+  Replace Autoprefixer browsers option to Browserslist config.
+  Use browserslist key in package.json or .browserslistrc file.
+
+  Using browsers option can cause errors. Browserslist config 
+  can be used for Babel, Autoprefixer, postcss-normalize and other tools.
+
+  If you really need to use option, rename it to overrideBrowserslist.
+
+  Learn more at:
+  https://github.com/browserslist/browserslist#readme
+  https://twitter.com/browserslist
+
+
+[[90m23:42:08[39m] Completed CSS Files for index 0
