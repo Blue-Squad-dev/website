@@ -1,0 +1,16 @@
+body .chocolate-header-layout .mdl-layout__container { position: relative; }
+body.drawer-open .chocolate-header-layout .mdl-layout__container { position: absolute; }
+.chocolate-header { background-color: #FFFFFF;}
+.chocolate-header .mdl-layout-title,
+.chocolate-header .mdl-layout__header-row .mdl-navigation__link { color: #000000; }
+.chocolate-header .logo { height: 50px; }
+.mdl-layout__header .mdl-layout__drawer-button { color: #000000; }
+.chocolate-header .support-btn { line-height: 36px; color: #FFFFFF !important; }
+.chocolate-header a.mdl-layout-title { text-decoration: none; }
+
+/* Accessibility */
+.tabbed .chocolate-header .mdl-layout__header-row a:focus { outline: 1px solid #000000; }
+.tabbed .chocolate-header .mdl-layout__drawer-button:focus { outline: 1px solid #000000; }
+.skip-to-content { left: -2000px; position: absolute; width: 100%; background: #0E6BA8; color: #000000; text-align: center; z-index: 999; }
+.skip-to-content:focus { left: 0px; }
+

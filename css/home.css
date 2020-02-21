@@ -1,0 +1,7 @@
+.home-introduction { padding: 50px 0px; }
+.home-introduction .intro-description { margin-bottom: 50px; }
+.home-introduction .reasons div.mdl-cell { display: flex; }
+.home-introduction .reasons .mdl-cell div:nth-child(1) { margin-right: 25px; font-size: 87px; color: #795548; display: inline-block; }
+.home-introduction .reasons div h3 { margin: 0px; margin-bottom: 10px; }
+
+.home-works { text-align: center; background: #F57C00; padding: 50px 0; }

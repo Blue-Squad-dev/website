@@ -1,0 +1,13 @@
+.cta { width: 100%; text-align: center; padding: 25px 0; background-color: #F57C00; }
+.cta-row-group { display: flex; width: 1500px; margin: 0 auto; height: 100%;  padding: 0 25px;  }
+.cta-row-group .cta-row { display: flex; flex-direction: row;  width: 100%; }
+.cta-row-group .cta-row .cta-row-item {display: flex; width: 100%; justify-content: center; align-items: center; }
+.cta-row-group .cta-row .cta-row-item p { margin-right: 25px; margin-bottom: 0px; }
+.cta-row-group .cta-row .cta-row-item button { background-color: rgb(0, 151, 167); }
+
+
+@media only screen and (max-width: 990px) {
+    .cta-row-group { width: 100%; display: block; box-sizing: border-box; }
+    .cta-row-group .cta-row .cta-row-item { display: block; width: 100%; }
+    .cta-row-group .cta-row .cta-row-item p { display: block; margin-bottom: 25px; }
+}

@@ -8,10 +8,8 @@
                     {{.Params.hero_content}}
                 </p>
             </div>
-            <div class="hero-row-item hero-video">
-                <iframe src="{{.Params.hero_video_url}}"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-                </iframe>
+            <div class="hero-row-item hero-image">
+                <img src="('{{ .Params.hero_image }}')">
             </div>
         </div>
     </div>
