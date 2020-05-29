@@ -2,13 +2,13 @@
 title="Home"
 
 hero_image="/images/material-bg.jpg"
-hero_title="Blue Squad"
-hero_subtitle="Web development with an emphasis on accessibility"
+hero_title="Blue Squad Development"
+hero_subtitle="Accessible websites built for you."
 hero_content="WCAG is short for Web Content Accessibility Guidelines, and is the current industry standard for web content accessibility. In order to meet the needs of all customers, our team of dedicated and experienced developers ensure that the final product experienced by the user is completely accessible and meets all WCAG requirements for your business."
-hero_video_url="https://www.youtube.com/embed/0VRc_gF0dt8"
+hero_video_url="https://giphy.com/embed/fj3CWRJJshhe"
 
-cta_text="Looking to make a change? Want to support the project?"
-cta_btn_text="Check Out our GoFundMe"
+cta_text="Personal sites, businesses, landing pages, ecommerce, you name it and we can build it."
+cta_btn_text="Check out our work!"
 cta_url="/posts"
 +++
 <!--Introduction -->

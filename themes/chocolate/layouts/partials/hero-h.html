@@ -1,4 +1,4 @@
-<div class="chocolate-hero-section" style="background-image: url('{{ .Params.hero_image }}')">
+<div class="chocolate-hero-section"  style="background-image: url('{{ .Params.hero_image }}')">
     <div class="hero-row-group">
         <div class="hero-row">
             <div class="hero-row-item hero-text-info">
@@ -8,8 +8,10 @@
                     {{.Params.hero_content}}
                 </p>
             </div>
-            <div class="hero-row-item hero-image">
-                <img src="('{{ .Params.hero_image }}')">
+            <div class="hero-row-item hero-video">
+                <iframe src="{{ .Params.hero_video_url }}"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                </iframe>
             </div>
         </div>
     </div>
