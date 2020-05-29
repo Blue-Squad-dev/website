@@ -3,7 +3,7 @@ a { color: #00D0FF; }
 .mdl-button--raised.mdl-button--colored { background: #00D0FF; color: #000000 !important; }
 .cta { background: #333333; color: #ffffff; }
 .home-introduction .reasons .mdl-cell div:nth-child(1) { color: #00D0FF; }
-.home-works { background: #333333; color: #ffffff; }
+.home-works { background: #A6E1FA; color: #ffffff; }
 .chocolate-footer { background: #333333; color: #ffffff; }
 .contact-form .mdl-textfield { width: 100%; }
 .contact-form .mdl-textfield__label { color: #000000; }
