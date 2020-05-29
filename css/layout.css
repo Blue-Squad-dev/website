@@ -12,7 +12,7 @@ body { overflow-x: hidden; }
 .mdl-button--raised.mdl-button--colored:focus,
 .mdl-button--raised.mdl-button--colored:active { background-color: #007383 !important; }
 
-a { color: #F57C00; }
+a { color: #0E6BA8; }
 a:hover { color: #000000; }
 
 p, li, a, span { font-size: 16px; }

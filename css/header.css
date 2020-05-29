@@ -11,6 +11,6 @@ body.drawer-open .chocolate-header-layout .mdl-layout__container { position: abs
 /* Accessibility */
 .tabbed .chocolate-header .mdl-layout__header-row a:focus { outline: 1px solid #000000; }
 .tabbed .chocolate-header .mdl-layout__drawer-button:focus { outline: 1px solid #000000; }
-.skip-to-content { left: -2000px; position: absolute; width: 100%; background: #f57c00; color: #000000; text-align: center; z-index: 999; }
+.skip-to-content { left: -2000px; position: absolute; width: 100%; background: #0E6BA8; color: #000000; text-align: center; z-index: 999; }
 .skip-to-content:focus { left: 0px; }
 
