@@ -17,7 +17,7 @@ cta_url="/posts"
         <div class="mdl-grid">
             <div class="mdl-cell mdl-cell--12-col">
                 <h2 class="mdl-typography--display-2">
-                    Standard Development Vs WCAG Compliant Development
+                    Standard Development vs Accessible & Responsive Development
                 </h2>
                 <p class="intro-description">
                 WCAG is short for Web Content Accessibility Guidelines, and is the current industry standard for web content accessibility in the United States. 
@@ -29,11 +29,11 @@ cta_url="/posts"
                 <div class="mdl-grid reasons">
                     <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
                         <div>
-                            <i class="fab fa-searchengin" style="color:#0E6BA8"></i>
+                            <i class="fas fa-users" style="color:#0E6BA8"></i>
                         </div>
                         <div>
-                            <h3>SEO Ranking</h3>
-                            <p>Makes searching for your site painless</p>
+                            <h3>Improved User Experience</h3>
+                            <p>Turning visitors into customers</p>
                         </div>
                     </div>
                     <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
@@ -49,11 +49,11 @@ cta_url="/posts"
             <div class="mdl-grid reasons">
                 <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
                         <div>
-                            <i class="fas fa-users" style="color:#0E6BA8"></i>
+                            <i class="fab fa-searchengin" style="color:#0E6BA8"></i>
                         </div>
                     <div>
-                            <h3>Improved User Experience</h3>
-                            <p>Turning visitors into customers</p>
+                            <h3>SEO Ranking</h3>
+                            <p>Makes searching for your site painless</p>
                         </div>
                 </div>
                 <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
