@@ -1,6 +1,6 @@
 body .chocolate-header-layout .mdl-layout__container { position: relative; }
 body.drawer-open .chocolate-header-layout .mdl-layout__container { position: absolute; }
-.chocolate-header { background-color: #FFFFFF;}
+.chocolate-header { background-color: #A6E1FA;}
 .chocolate-header .mdl-layout-title,
 .chocolate-header .mdl-layout__header-row .mdl-navigation__link { color: #000000; }
 .chocolate-header .logo { height: 50px; }

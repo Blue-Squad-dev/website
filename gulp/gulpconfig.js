@@ -2,8 +2,8 @@ var basePath = '/themes/chocolate/static';
 var config = {
     instances: [
         {
-            cssDest: basePath + '/css',
-            jsDest: basePath + '/js',
+            cssDest: basePath + '/css/',
+            jsDest: basePath + '/js/',
             cssFiles: [
 				basePath + "/css/layout.css",
 				basePath + "/css/header.css",

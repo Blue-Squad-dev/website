@@ -1,4 +1,4 @@
-.home-introduction { padding: 50px 0px; }
+.home-introduction { padding: 50px 0px; background-color: #A6E1FA;}
 .home-introduction .intro-description { margin-bottom: 50px; }
 .home-introduction .reasons div.mdl-cell { display: flex; }
 .home-introduction .reasons .mdl-cell div:nth-child(1) { margin-right: 25px; font-size: 87px; color: #795548; display: inline-block; }
