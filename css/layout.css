@@ -7,10 +7,10 @@ body { overflow-x: hidden; }
 .side-by-side-image-container { height: 600px; }
 .side-by-side-image-container img { height: 100%; width: 100%; object-fit: cover; }
 
-.mdl-button--raised.mdl-button--colored{ background: #0097A7; }
+.mdl-button--raised.mdl-button--colored{ background: #0E6BA8; }
 .mdl-button--raised.mdl-button--colored:hover,
 .mdl-button--raised.mdl-button--colored:focus,
-.mdl-button--raised.mdl-button--colored:active { background-color: #007383 !important; }
+.mdl-button--raised.mdl-button--colored:active { background-color: #001C55 !important; }
 
 a { color: #0E6BA8; }
 a:hover { color: #000000; }
