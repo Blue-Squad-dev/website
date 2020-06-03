@@ -4,32 +4,32 @@ title="Design Philosophy"
 <section>
     <div class="mdl-grid">
         <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
-            <ul>
-                <li>
+            <section>
+                <p>
                     <i class="far fa-comments" style="color:#0E6BA8"></i>
                     <strong>Consultation</strong><br />
                     We start with focusing on the main goal for your site and outline the different ideas formed to meet
                     your needs.
-                </li>
-                <li>
+                </p>
+                <p>
                     <i class="fas fa-search" style="color:#0E6BA8"></i>
                     <strong>Research/Audit</strong><br />
                     If you already have a site, our team will deeply explore every component and present you with a detailed
                     outline indicating accessibility issues and any others we find.
-                </li>
-                <li>
+                </p>
+                <p>
                     <i class="fas fa-chess-queen" style="color:#0E6BA8"></i>
                     <strong>Strategy</strong><br />
                     We work with you to outline specific design preferences and branding to ensure the final product
                     is exactly what you need.
-                </li>
-                <li>
+                </p>
+                <p>
                     <i class="fas fa-code" style="color:#0E6BA8"></i>
                     <strong>Development</strong><br />
                     Once outlines and ideas are all finalized, development will start and not stop until everything
                     is perfect.
-                </li>
-            </ul>
+                </p>
+            </section>
             <span class="flow-text">
                 <strong>Speed - Efficiency - Quality</strong>
             </span>
@@ -40,10 +40,10 @@ title="Design Philosophy"
             </p>
         </div>
         <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
-            <img class="responsive-img" src="/images/showerspin.png">
+            <img class="responsive-img" src="#">
         </div>
         <div class="mdl-cell mdl-cell--12-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
-            <img class="responsive-img" src="/images/complete_waterloop_for_household.png">
+            <img class="responsive-img" src="#">
             <p>
                 Here's a little preview of how we imagine a complete household water loop to look like. By reusing the
                 same water from one process to another we can dramatically decrease water consumption without having to
@@ -51,8 +51,8 @@ title="Design Philosophy"
                 components, valves, pumps, ultra violet systems and filters let's work together. If you have spare parts
                 feel free to send them to us :)
             </p>
-            <img class="responsive-img" src="/images/Schematic555.jpg">
-            <img class="responsive-img" src="/images/shower-loop1.png">
+            <img class="responsive-img" src="#">
+            <img class="responsive-img" src="#">
         </div>
     </div>
 </section>
@@ -74,8 +74,8 @@ title="Design Philosophy"
         filters last longer before requiring manual maintenance. By measuring use and changes in flow rate it can inform
         you when to change filters.
     </p>
-    <img class="responsive-img" src="/images/monitor.jfif">
-    <img class="responsive-img" src="/images/showerloop+future+ui.png">
+    <img class="responsive-img" src="#">
+    <img class="responsive-img" src="#">
     <p>
         Currently we are using a simple two-row, two-color LCD screen (below) but in the future the interface could look
         more like this and be programmed by your smart phone (it's just a draft so don't get caught up on the numbers -
@@ -87,7 +87,7 @@ title="Design Philosophy"
     <div class="mdl-grid">
         <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
             <div class="side-by-side-image-container">
-                <img src="/images/20150918_MOREL_MG_0012_Small_poc21.jpg">
+                <img src="#">
             </div>
             <h3>The POC21 Model</h3>
             <p>
@@ -99,7 +99,7 @@ title="Design Philosophy"
         </div>
         <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
             <div class="side-by-side-image-container">
-                <img src="/images/sloopdesign+(71+of+75).jpg">
+                <img src="#">
             </div>
             <h3>The fully operational prototype</h3>
             <p>
@@ -118,6 +118,6 @@ title="Design Philosophy"
             the floor apart. We are also working on a way to hack your existing drain and using self-priming pumps so
             that you can plug the drain during loop mode and suck the water out of the small collection basin.
         </p>
-        <img class="responsive-img" src="/images/challenge.jpeg">
+        <img class="responsive-img" src="#">
     </div>
 </section>
