@@ -2,10 +2,10 @@
 title="Home"
 
 hero_image="/images/material-bg.jpg"
-hero_title="BlueSquad.Dev"
-hero_subtitle="Simple - Accessible - Mobile First Design"
-hero_content="Our dedicated team of developers want to ensure your website gives every visitor a helpful and seamless experience through it. With over 15% of the world's population suffering from some form of disability, it is important to recognize the need for online accessibility. We do the heavy lifting, so everyone that wants to visit your site can."
-hero_video_url="https://giphy.com/embed/fj3CWRJJshhe"
+hero_title="BLUE SQUAD.DEV"
+hero_subtitle="Simple - Accessible - Mobile First"
+hero_content="Our dedicated team of designers and developers want to ensure your website gives every visitor a helpful and seamless experience through it. With over 15% of the world's population suffering from some form of disability, it is important to recognize the need for online accessibility. We do the heavy lifting, so everyone that wants to visit your site can."
+hero_video_url="/images/corner-logo-nobg.png"
 
 cta_text="Personal, Business, Shopify, ecommerce, you name it and we can build it."
 cta_btn_text="Check out our work!"
