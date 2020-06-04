@@ -21,10 +21,11 @@
         </div>
     </header>
     <div class="mdl-layout__drawer">
-        <span class="mdl-layout-title"><strong>Blue Squad Development</strong></span>
+        <span class="mdl-layout-title"><strong>BlueSquad.Dev</strong></span>
         <nav class="mdl-navigation">
             {{ $currentPage := . }}
             {{ range .Site.Menus.main }}
+            <a class="mdl-navigation__link" href="{{ .URL }}" title="{{ .Title }}" tabindex="0">{{ .Name }}</a>
             {{ end }}
         </nav>
     </div>
