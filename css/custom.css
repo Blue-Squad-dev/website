@@ -33,6 +33,10 @@ a { color: #0E6BA8; }
     text-align: -webkit-center;
 }
 
+#hero-video-index {
+    float: right;
+}
+
 .container{
     position: relative;
     display: flex;
