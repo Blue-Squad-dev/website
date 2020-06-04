@@ -1,4 +1,4 @@
-+++
+<!-- +++
 author="Anthony Hathaway"
 title="The electronics board PCBBasic2.0"
 date = "2017-03-09"
@@ -23,4 +23,4 @@ tags=['post']
 <img class="responsive-img" src="/images/PCBBasic2_10.png">
 <img class="responsive-img" src="/images/PCBBasic2_11.png">
 
-
+ -->
