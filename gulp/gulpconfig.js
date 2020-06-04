@@ -6,7 +6,8 @@ var config = {
             jsDest: basePath + '/js/',
             cssFiles: [
 				basePath + "/css/layout.css",
-				basePath + "/css/header.css",
+                basePath + "/css/header.css",
+                basePath + "/css/custom.css",
 				basePath + "/css/footer.css",
 				basePath + "/css/cta.css",
 				basePath + "/css/hero.css",

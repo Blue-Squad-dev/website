@@ -9,7 +9,7 @@ hero_video_url="https://giphy.com/embed/fj3CWRJJshhe"
 
 cta_text="Personal, Business, Shopify, ecommerce, you name it and we can build it."
 cta_btn_text="Check out our work!"
-cta_url="/posts"
+cta_url="/research"
 +++
 <!--Introduction -->
 <div class="home-introduction">
