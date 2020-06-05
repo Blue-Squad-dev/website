@@ -40,7 +40,7 @@ title="Design Philosophy"
             </p>
         </div>
         <div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-tablet mdl-cell--12-col-phone">
-            <img class="responsive-img" src="#">
+            <img class="responsive-img" src="/images/corner-logo-nobg2.png">
         </div>
     </div>
 </section>
