@@ -29,15 +29,9 @@ a { color: #0E6BA8; }
     .chocolate-hero-section h2 { font-size: 26px; line-height: 27px; }
 }
 
-.chocolate-container {
-    text-align: -webkit-center;
-}
+#hero-video-index { float: right; }
 
-#hero-video-index {
-    float: right;
-}
-
-.container{
+.container {
     position: relative;
     display: flex;
     justify-content: space-between;
@@ -46,18 +40,10 @@ a { color: #0E6BA8; }
     width: 1000px;
 }
 
-.container .card{
-    position: relative;
-    cursor: pointer;
-}
+.container .card { position: relative; cursor: pointer; }
+.container .card .face { width: 300px; height: 200px; transition: 0.5s; }
 
-.container .card .face{
-    width: 300px;
-    height: 200px;
-    transition: 0.5s;
-}
-
-.container .card .face.face1{
+.container .card .face.face1 {
     position: relative;
     background: #333;
     display: flex;
@@ -67,24 +53,10 @@ a { color: #0E6BA8; }
     transform: translateY(100px);
 }
 
-.container .card:hover .face.face1{
-    background: #0E6BA8;
-    transform: translateY(0);
-}
-
-.container .card .face.face1 .content{
-    opacity: 0.2;
-    transition: 0.5s;
-}
-
-.container .card:hover .face.face1 .content{
-    opacity: 1;
-}
-
-.container .card .face.face1 .content img{
-    max-width: 100px;
-}
-
+.container .card:hover .face.face1 { background: #0E6BA8; transform: translateY(0); }
+.container .card .face.face1 .content{ opacity: 0.2; transition: 0.5s; }
+.container .card:hover .face.face1 .content { opacity: 1; }
+.container .card .face.face1 .content img { max-width: 100px; }
 .container .card .face.face1 .content h3{
     margin: 10px 0 0;
     padding: 0;
@@ -105,16 +77,9 @@ a { color: #0E6BA8; }
     transform: translateY(-100px);
 }
 
-.container .card:hover .face.face2{
-    transform: translateY(0);
-}
-
-.container .card .face.face2 .content p{
-    margin: 0;
-    padding: 0;
-}
-
-.container .card .face.face2 .content a{
+.container .card:hover .face.face2 { transform: translateY(0); }
+.container .card .face.face2 .content p { margin: 0; padding: 0; }
+.container .card .face.face2 .content a {
     margin: 15px 0 0;
     display:  inline-block;
     text-decoration: none;
@@ -124,7 +89,4 @@ a { color: #0E6BA8; }
     border: 1px solid #333;
 }
 
-.container .card .face.face2 .content a:hover{
-    background: #0E6BA8;
-    color: #fff;
-}
+.container .card .face.face2 .content a:hover { background: #0E6BA8; color: #fff; }

@@ -4,4 +4,4 @@
 .home-introduction .reasons .mdl-cell div:nth-child(1) { margin-right: 25px; font-size: 87px; color: #795548; display: inline-block; }
 .home-introduction .reasons div h3 { margin: 0px; margin-bottom: 10px; }
 
-.home-works { text-align: center; background: #0E6BA8; padding: 50px 0; }
+.home-works { text-align: center; background: #0E6BA8; padding: 50px 0; text-align: -webkit-center; color: #ffffff}
