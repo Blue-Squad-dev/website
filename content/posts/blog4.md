@@ -1,8 +1,8 @@
-<!-- +++
++++
 author="Jackie Young"
 title="2 Ways to Be Economical When Showering With an Injury"
 date="2018-04-17"
-blog_image="/images/Picture+of+a+pair+of+legs+with+red+toenails,+a+showerhead+submerged+in+water+and+an+overflow+drain+-+all+centered+in+the+image.jfif"
+blog_image="/images/corner-logo-nobg.png"
 tags=['post']
 +++
 <img class="responsive-img" src="/images/Picture+of+a+pair+of+legs+with+red+toenails,+a+showerhead+submerged+in+water+and+an+overflow+drain+-+all+centered+in+the+image.jfif">
@@ -17,4 +17,4 @@ tags=['post']
 <h2>Using A Bucket</h2>
 <p>If you have a large-scale cast or slang and cannot risk getting into the shower completely, you may want to try using a bucket to bathe. This is another economical way to shower that will give you total control over the amount of water that will touch your body. All you will need is a plastic or metal bucket and a pitcher of some kind. Fill the bucket up with water. This will be all of the water that you will use for your entire “shower,” which you’ll notice is a significantly lesser amount compared to a normal shower or bath (Showerloop only requires one bucket of water per shower of any duration). Use the pitcher to pour water over your body or whichever area you wish to wash. Again, you will have control over exactly where the water goes, which is extremely helpful if you want to avoid getting your injury wet.</p>
 <p>By trying one of these two showering methods, you can manage to properly bathe without running the risk of getting your injury wet—and while still being environmentally-friendly.</p>
-<img class="responsive-img" src="/images/shower-loop1.png"> -->
+<img class="responsive-img" src="/images/shower-loop1.png">

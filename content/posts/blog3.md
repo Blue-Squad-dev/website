@@ -1,8 +1,8 @@
-<!-- +++
++++
 author="Jackie Young"
 title="Don’t Put These Things Down The Shower Drain!"
 date = "2018-03-27"
-blog_image="/images/drainbubbles.png"
+blog_image="/images/corner-logo-nobg.png"
 tags=['post']
 +++
 <img class="responsive-img" src="/images/drainbubbles.png">
@@ -29,4 +29,4 @@ tags=['post']
 <p>Having a clean and eco-friendly shower is important. By ensuring that you don’t put harmful products down the drain, you can keep your pipes healthy and prevent chemicals from entering the environment where they can pollute the water and harm wildlife and ultimately ourselves.</p>
 <blockquote>
 <p>With Showerloop but it’s still better to let soapy water go down the drain for the longevity of the filter. Our goal is to find or invent a way to filter out all kinds of soap with 100% reliability but that will require way more time and funding than what is currently available. I’m certain that the goal is achievable on a small scale and in an economically and ecologically feasible way (large scale utility projects are still the most effective for saving water but maybe not energy). Showerloop is just our first step in readjusting our relationship with water and the beautiful and plentiful resources on this planet.</p>
-</blockquote> -->
+</blockquote>

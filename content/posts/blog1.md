@@ -1,8 +1,8 @@
-<!-- +++
++++
 author="Anthony Hathaway"
 title="The electronics board PCBBasic2.0"
 date = "2017-03-09"
-blog_image="/images/PCBBasic2_1.png"
+blog_image="/images/corner-logo-nobg.png"
 tags=['post']
 +++
 <p>For the last couple of months we have gotten back to circuit boards and looking at completing the project we started a long time ago. Making the shower smart and easily controllable like one would expect from modern consumer products. There's been a lot to learn considering all we could do a few years ago was wire up a light bulb, and even then we would need to check what the difference was with the brown wire (live/positive) and the blue wire (ground/neutral).</p>
@@ -23,4 +23,4 @@ tags=['post']
 <img class="responsive-img" src="/images/PCBBasic2_10.png">
 <img class="responsive-img" src="/images/PCBBasic2_11.png">
 
- -->
+
