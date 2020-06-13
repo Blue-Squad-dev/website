@@ -17,8 +17,9 @@ cta_url="/research"
         <div class="mdl-grid">
             <div class="mdl-cell mdl-cell--12-col">
                 <h2 class="mdl-typography--display-2">
-                    Standard Development vs Accessible & Responsive Development
+                    Standard Development vs Accessible & Responsive Design
                 </h2>
+                <br>
                 <p class="intro-description">
                 WCAG is short for Web Content Accessibility Guidelines, and is the current industry standard for web content accessibility in the United States. 
                 In order to meet the needs of all clients, our team of dedicated and experienced developers ensure that the final product is accessible to all visitors including those with disabilities.
