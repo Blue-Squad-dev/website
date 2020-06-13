@@ -90,3 +90,8 @@ a { color: #0E6BA8; }
 }
 
 .container .card .face.face2 .content a:hover { background: #0E6BA8; color: #fff; }
+
+#contact {
+    padding: 50px 50px 50px 50px;
+    text-align: left;
+}
