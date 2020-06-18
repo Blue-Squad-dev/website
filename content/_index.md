@@ -9,7 +9,7 @@ hero_video_url="/images/corner-logo-nobg.png"
 
 cta_text="Personal, Business, Shopify, ecommerce, you name it and we can build it."
 cta_btn_text="Check out our work!"
-cta_url="/research"
+cta_url="/portfolio"
 +++
 <!--Introduction -->
 <div class="home-introduction">

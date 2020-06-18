@@ -34,11 +34,11 @@ publishDir = "./"
 	weight = 2
 	title = "How It Works"
   [[menu.main]]
-    identifier = "research"
-    name = "Research"
-    url = "/research/"
+    identifier = "portfolio"
+    name = "Portfolio"
+    url = "/portfolio/"
 	weight = 3
-	title = "Research"
+	title = "Portfolio"
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
@@ -51,18 +51,6 @@ publishDir = "./"
     url = "/contact-us/"
 	weight = 5
 	title = "Contact Us"
-  [[menu.main]]
-    identifier = "components"
-    name = "Components"
-    url = "/components/"
-	weight = 6
-	title = "Components"
-  [[menu.main]]
-    identifier = "make-it"
-    name = "Make It"
-    url = "/make-it/"
-	weight = 7
-	title = "Make It"
 [params]
   facebookShareUrl = "https://www.facebook.com/sharer/sharer.php?u="
   twitterShareUrl = "http://twitter.com/share?url="
