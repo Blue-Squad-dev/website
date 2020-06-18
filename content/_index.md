@@ -68,8 +68,8 @@ cta_url="/portfolio"
                 </div>
             </div>
         </div>
+    </div>
 </div>
-<!-- How It Works -->
 <div class="home-works">
     <div class="mdl-grid">
         <div class="mdl-cell mdl-cell--12-col">
@@ -94,5 +94,4 @@ cta_url="/portfolio"
             </div>
         </div>
     </div>
-</div>
  
