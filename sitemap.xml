@@ -3,55 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shower-loop.github.io/posts/blog4/</loc>
-    <lastmod>2018-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shower-loop.github.io/</loc>
-    <lastmod>2018-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shower-loop.github.io/tags/post/</loc>
-    <lastmod>2018-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shower-loop.github.io/posts/</loc>
-    <lastmod>2018-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shower-loop.github.io/tags/</loc>
-    <lastmod>2018-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shower-loop.github.io/posts/blog3/</loc>
-    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shower-loop.github.io/posts/blog2/</loc>
-    <lastmod>2017-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shower-loop.github.io/posts/blog1/</loc>
-    <lastmod>2017-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shower-loop.github.io/licenses/</loc>
-  </url>
-  
-  <url>
     <loc>https://shower-loop.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shower-loop.github.io/components/</loc>
   </url>
   
   <url>
@@ -63,11 +15,15 @@
   </url>
   
   <url>
-    <loc>https://shower-loop.github.io/make-it/</loc>
+    <loc>https://shower-loop.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://shower-loop.github.io/research/</loc>
+    <loc>https://shower-loop.github.io/portfolio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shower-loop.github.io/tags/</loc>
   </url>
   
 </urlset>
