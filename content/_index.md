@@ -71,26 +71,28 @@ cta_url="/portfolio"
     </div>
 </div>
 <div class="home-works">
-    <div class="mdl-grid">
-        <div class="mdl-cell mdl-cell--12-col">
-            <h2 class="mdl-typography--display-2 section-title">
-                Why Blue Squad?
-            </h2>
-            <p class="intro-description">
-            While building a website may not be the most difficult aspect of creating a business, becoming WCAG (AA) compliant requires rigourous testing and research in order to uphold the standard sought out by so many websites today. Our team of dedicated developers at Blue Squad will build your business site from scratch, and test every possible user interaction within it's contents to ensure it is WCAG Compliant and up to par with industry leaders. Our goal is to help you provide complete access to your website for <strong>all</strong> potential clients, including those with disabilities. Blue Squad is your solution to Localization, Accessibility Audits, Accessibility code updates, Seach Engine Optimization, Metrics Tracking, Graphics Design, Web Design, Full Stack Development, as well as DevSecOps Automation.
-            </p>
-            <h2 class="mdl-typography--display-2 section-title">
-                Communication and Transparency
-            </h2>
-            <p>
-                Blue Squad aims to build trust through transparency with our clientele. To achieve this, we ensure clear and consistent communication throughout the development process as well as billing to the minute with work reports using time tracking software such as Toggl.
-            </p>
-            <h2 class="mdl-typography--display-2 section-title">
-                Technologies 
-            </h2>
-            <p>
-                Docker, Docker Swarm, Salt-Stack, Linux, BSD/Unix, Windows, OS X, Jenkins, GitLab, GitHub, VueJS, React, Gulp, Jekyll, HuGo, Shopify, WordPress, WooCommerce, Stripe, PayPal... and heaps more!
-            </p>
+    <div class="chocolate-container">
+        <div class="mdl-grid">
+            <div class="mdl-cell mdl-cell--12-col">
+                <h2 class="mdl-typography--display-2 section-title">
+                    Why Blue Squad?
+                </h2>
+                <p class="intro-description">
+                While building a website may not be the most difficult  aspect of creating a business, becoming WCAG (AA) compliant  requires rigourous testing and research in order to uphold   the standard sought out by so many websites today. Our team   of dedicated developers at Blue Squad will build your     business site from scratch, and test every possible user    interaction within it's contents to ensure it is WCAG  Compliant and up to par with industry leaders. Our goal is   to help you provide complete access to your website for   <strong>all</strong> potential clients, including those   with disabilities. Blue Squad is your solution to     Localization, Accessibility Audits, Accessibility code  updates, Seach Engine Optimization, Metrics Tracking,    Graphics Design, Web Design, Full Stack Development, as    well as DevSecOps Automation.
+                </p>
+                <h2 class="mdl-typography--display-2 section-title">
+                    Communication and Transparency
+                </h2>
+                <p>
+                    Blue Squad aims to build trust through transparency     with our clientele. To achieve this, we ensure clear    and consistent communication throughout the development    process as well as billing to the minute with work     reports using time tracking software such as Toggl.
+                </p>
+                <h2 class="mdl-typography--display-2 section-title">
+                    Technologies 
+                </h2>
+                <p>
+                    Docker, Docker Swarm, Salt-Stack, Linux, BSD/Unix,  Windows, OS X, Jenkins, GitLab, GitHub, VueJS, React,    Gulp, Jekyll, HuGo, Shopify, WordPress, WooCommerce,   Stripe, PayPal... and heaps more!
+                </p>
+                </div>
             </div>
         </div>
     </div>
